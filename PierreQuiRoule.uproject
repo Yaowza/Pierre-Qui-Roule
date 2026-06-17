@@ -30,6 +30,10 @@
 		{
 			"Name": "PCGBiomeSample",
 			"Enabled": true
+		},
+		{
+			"Name": "NaniteDisplacedMesh",
+			"Enabled": true
 		}
 	]
 }
