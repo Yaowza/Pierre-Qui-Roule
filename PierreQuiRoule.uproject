@@ -37,7 +37,7 @@
 		},
 		{
 			"Name": "CoroBlueprintLibrary",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "https://x.com/CarlosGameDev"
 		}
 	]
